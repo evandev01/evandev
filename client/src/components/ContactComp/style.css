@@ -1,0 +1,18 @@
+#contact-body{
+    background-image: url('./assets/contactBg.jpg');
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+#header {
+    height: auto;
+    width: 100%;
+    max-height: 275px;
+    max-width: 100%;
+}
+#formBg{
+    backdrop-filter: blur(5px);
+}
+.form-label{
+    color: whitesmoke;
+}
